@@ -322,13 +322,14 @@ img#imagepost {
 }
 
 .chatmodal {
+    
     background-color: white;
 }
 
 @media (min-width: 768px) {
     img.responsive-img,
     video.responsive-video {
-        max-width: 30%;
+        max-width: 60%;
         height: auto;
     }
 }
